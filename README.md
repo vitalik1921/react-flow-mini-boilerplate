@@ -1,4 +1,4 @@
-# React Flow Mini Boilerplate
+# React + Flow Mini Boilerplate
 
 * create-react-app based
 * react 16.6.3
