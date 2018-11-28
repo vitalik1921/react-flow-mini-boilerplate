@@ -1,6 +1,7 @@
 # React Flow Mini Boilerplate
 
 * create-react-app based
+* react 16.6.3
 * redux 4.0.1
 * react-router 4.3.1
 * flow 0.86.0
