@@ -1,0 +1,40 @@
+{
+  "name": "react-flow-mini-boilerplate",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "connected-react-router": "^5.0.1",
+    "history": "^4.7.2",
+    "node-sass": "^4.10.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-redux": "^5.1.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "flow && react-scripts start",
+    "build": "flow && react-scripts build",
+    "test": "flow && react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "flow": "flow",
+    "postinstall": "flow-typed install"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "empty": "^0.10.1",
+    "flow-bin": "^0.86.0",
+    "flow-typed": "^2.5.1"
+  }
+}
