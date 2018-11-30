@@ -6,6 +6,11 @@
 * react-router 4.3.1
 * flow 0.86.0
 
+## Installation
+
+* npm install -g flow-bin
+* npm install
+
 ## Available Scripts
 
 In the project directory, you can run:
